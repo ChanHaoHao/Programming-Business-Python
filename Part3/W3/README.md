@@ -6,4 +6,6 @@ c1, c2 is the price bought by the two stores
 
 n is the rounds that the store changes price
 
+p1 = (a+b*p2+c1)/2
+
 p2 = (a+b*p1+c2)/2
